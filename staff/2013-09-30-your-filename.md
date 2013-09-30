@@ -1,4 +1,4 @@
-![](/staff/2753-3.png)
+![](/staff/2753-3.png)![](/staff/2753-3.png)
 ![](/staff/2753-4.png)
 ## A New Post
 
