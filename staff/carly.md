@@ -1,8 +1,7 @@
 ---
 
-name: Carly Hoffman
+name: Carly Hoffman, MA
 photo: carly.jpg
-accreditation: MA
 title: Psychotherapist
 
 ---

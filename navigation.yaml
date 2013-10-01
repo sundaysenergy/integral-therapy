@@ -1,0 +1,26 @@
+title: Main Menu
+navigation:
+  -
+    title: Home
+    path: /
+  -
+    title: Services
+    path: /services
+  -
+    title: Therapist info
+    path: /credentials
+  -
+    title: Integral Approach
+    path: /approach
+  -
+    title: Philosophy
+    path: /philosophy
+  -
+    title: Directions
+    path: /directions1
+  -
+    title: Our office
+    path: /directions
+  -
+    title: Contact
+    path: /contact

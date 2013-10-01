@@ -3,6 +3,7 @@
 name: Dr. David Thompson
 photo: david.jpg
 title: Minneapolis Psychologist
+sort: "-1"
 
 ---
 
