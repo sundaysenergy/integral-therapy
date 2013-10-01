@@ -1,8 +1,7 @@
 ---
 
-name: Beth McNally
+name: Beth McNally, MA
 photo: beth.jpg
-accreditation: MA
 title: Psychotherapist
 
 ---
