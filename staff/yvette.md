@@ -3,7 +3,7 @@
 name: Yvette Erasmus, M.Ed.
 photo: yvette.png
 title: Psychotherapist
-sort: "10"
+sort: 10
 
 ---
 

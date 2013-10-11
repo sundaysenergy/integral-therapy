@@ -3,6 +3,7 @@
 name: Dan Ronken
 photo: dan.png
 title: Psychotherapist
+sort: -4
 
 ---
 
