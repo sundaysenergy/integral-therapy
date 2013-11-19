@@ -1,9 +1,8 @@
 ---
-
-title: Integral Psychology - the integrative approach to health | Therapy Minneapolis - Integral Psychotherapy
+title: "Integral Psychology - the integrative approach to health | Therapy Minneapolis - Integral Psychotherapy"
 menu: Integral Approach
 breadcrumb: true
-
+published: true
 ---
 
 # Integral Psychology - the integrative approach to health | Therapy Minneapolis
@@ -28,3 +27,6 @@ The world's many different cultural traditions provide another valuable and dive
  
 
 _[Dr. Thompson](http://www.therapyminneapolis.com/credentials) conducted his doctoral studies at the California Institute of Integral Studies - an institution leading the way in the movement towards an integrative understanding of the human and the world._
+
+
+For more info on the Integral approach to psychotherapy, please visit our sister-organization's website: [Chiron: Center for Integral-Relational Studies](http://www.chiron-center.com/)
