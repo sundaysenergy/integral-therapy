@@ -26,7 +26,7 @@ All humans' lives go through periods of challenge and difficulty. Without strugg
 
 * Adults, Children & Adolescents
 * Individuals, Families &amp; Couples
-* A wide range of problems (see [Services](/services))
+* A wide range of problems (see [Services](/services.html))
 
 &nbsp;
 
@@ -38,8 +38,8 @@ Office located in south Minneapolis near uptown, just off 35W, and on direct bus
 
 ### Cost:
 
-We offer services based on a sliding scale to make services affordable for all income levels. Our current fee range is $40 - $125.  We also accept insurance, depending on the specifics of the plan.  [Contact us](/contact) for details.
+We offer services based on a sliding scale to make services affordable for all income levels. Our current fee range is $40 - $125.  We also accept insurance, depending on the specifics of the plan.  [Contact us](/contact.html) for details.
 
 ### Scheduling:
 
-Appointments are available weekdays, evenings, and weekends. [Contact us](/contact) to set up an appointment.
+Appointments are available weekdays, evenings, and weekends. [Contact us](/contact.html) to set up an appointment.
