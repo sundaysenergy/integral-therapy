@@ -64,13 +64,20 @@
       <!-- main text and content area -->
       <div id="textualcontent" class="">
         <div class="pad">
-          <h1 class="title">{{page.title}}{{^page.title}}Minneapolis Psychologist - Dr. David Thompson{{/page.title}}</h1>
-          <div class="node ntype-page" id="node-3">
-            <div class="content">
-              {{{ content }}}
+          {{#content}}
+            <h1 class="title">Minneapolis Psychologist - Dr. David Thompson</h1>
+            <div class="node ntype-page" id="node-3">
+              <div class="content">
+                {{{ content }}}
+              </div>
+            </div>
+          {{/content}}
+          {{#page}}
+            <div class="content" id="{{page._no_ext}}">
               {{{ page.content }}}
             </div>
-          </div>
+          {{/page}}
+
         </div>
       </div>    <!-- end main text and content area -->
 
