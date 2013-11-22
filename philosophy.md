@@ -11,8 +11,8 @@ Our work with clients is based upon the integration of a number of schools of ps
 
 _These include_:
 
-  * [Jungian psychology](http://www.integral-therapy.com/jungianpsychology.html)
-  * [Relational Psychoanalysis](http://www.integral-therapy.com/relationalpsychoanalysis.html)
+  * [Jungian psychology](/jungianpsychology.html)
+  * [Relational Psychoanalysis](/relationalpsychoanalysis.html)
   * Integral theory
   * Mindfulness practice
   * The world's religions and spiritual traditions
