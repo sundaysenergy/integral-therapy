@@ -5,6 +5,8 @@ menu: Home
 
 # Therapy in Minneapolis area
 
+&nbsp;
+
 *"The world breaks everyone and afterward many are strong in the broken places."*
 
 \-Ernest Hemingway
