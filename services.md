@@ -16,8 +16,6 @@
 * Career questioning
 * Spiritual/religious questioning
 
-
-
 ### [Couples Therapy](/couplestherapy.html) & Family Counseling for:
 
 * Relationship difficulties
@@ -28,5 +26,6 @@
 * Parent concerns
 * Commitment difficulties
 
+&nbsp;
 
 \* Referrals and help finding appropriate help and support services are gladly provided to the public free of charge.
