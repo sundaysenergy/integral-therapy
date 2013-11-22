@@ -2,7 +2,6 @@
 title: Jungian Psychology - Minneapolis, MN | Therapy Minneapolis
 
 ---
-[Source](http://www.integral-therapy.com/jungianpsychology.html "Permalink to Jungian Psychology - Minneapolis, MN | Therapy Minneapolis")
 
 # Jungian Psychology - Minneapolis, MN
 
