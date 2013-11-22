@@ -66,14 +66,14 @@
         <div class="pad">
           {{#content}}
             <h1 class="title">Minneapolis Psychologist - Dr. David Thompson</h1>
-            <div class="node ntype-page" id="node-3">
+            <div class="node ntype-page" id="page-staff">
               <div class="content">
                 {{{ content }}}
               </div>
             </div>
           {{/content}}
           {{#page}}
-            <div class="content" id="{{page._no_ext}}">
+            <div class="content" id="page-{{page._no_ext}}">
               {{{ page.content }}}
               {{#page.contact}}
                 {{{ wufoo }}}
