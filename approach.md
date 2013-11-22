@@ -6,11 +6,11 @@ published: true
 
 ---
 
-# Integral Psychology - the integrative approach to health | Therapy Minneapolis
+# Integral Psychology - the integrative approach to health
 
 Human life consists of numerous interrelated facets, each of which plays a key role in the individual's well being. An integral approach to mental health is built on this recognition of the whole individual.
 
-![](http://www.integral-therapy.com/sites/www.integral-therapy.com/files/integral1.jpg)
+![integrative approach](/files/integral1.jpg)
  
 
 ### Understanding
