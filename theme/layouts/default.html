@@ -75,6 +75,9 @@
           {{#page}}
             <div class="content" id="{{page._no_ext}}">
               {{{ page.content }}}
+              {{#page.contact}}
+                {{wufoo}}
+              {{/page.contact}}
             </div>
           {{/page}}
 
