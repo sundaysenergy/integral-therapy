@@ -2,7 +2,7 @@
 
 Our office is in southwest Minneapolis near uptown, the lakes, and close to 35W.
 
-![](http://www.integral-therapy.com/sites/www.integral-therapy.com/files/minneapolis%20psychologist.jpg)
+![minneapolis-psychologist](/files/minneapolis-psychologist.jpg)
 
 **Address:**
 3808 Grand Ave. S
@@ -10,13 +10,13 @@ Minneapolis, MN 55409
 
 **Entrance:**  The main entrance is in back; you will need a code to open the door.  Please get this from your therapist.
 
-![](http://www.integral-therapy.com/sites/www.integral-therapy.com/files/minneapolis%20therapy.jpg) ![](http://www.integral-therapy.com/sites/www.integral-therapy.com/files/jungian%20analyst%20minneapolis.jpg)
+![minneapolis-therapy](/files/minneapolis-therapy.jpg) ![jungian-analyst-minneapolis](/files/jungian-analyst-minneapolis.jpg)
 
 **Parking:** On weekdays there is plenty of parking available on the street.  We also have off-street parking around back.  You must go through the alley to access this; you'll see the 3808 address sign on our carriage house.  Park in any of the four spaces.
 
 This is the walkway from our parking lot to our main entrance:
 
-![](http://www.integral-therapy.com/sites/www.integral-therapy.com/files/psychologist%20minneapolis_0.jpg)
+![psychologist-minneapolis](/files/psychologist-minneapolis_0.jpg)
 
  
 

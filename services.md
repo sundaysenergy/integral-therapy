@@ -18,7 +18,7 @@
 
  
 
-**[Couples Therapy](http://www.integral-therapy.com/couplestherapy.html) & Family Counseling for:**
+**[Couples Therapy](/couplestherapy.html) & Family Counseling for:**
 
   * Relationship difficulties
   * Family discord & child/teen behavioral problems
