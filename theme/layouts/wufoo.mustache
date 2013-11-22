@@ -1,0 +1,24 @@
+<div id="wufoo-{{data.wufoo.id}}">
+  Fill out the {{data.author.name}}<a href="https://sundaysenergy.wufoo.com/forms/{{data.wufoo.id}}"> contact form</a>.
+</div>
+<script type="text/javascript">
+  var {{data.wufoo.id}};
+  (function(d, t) {
+  var s = d.createElement(t), options = {
+    'userName':'{{data.wufo.user}}{{^data.wufoo.user}}sundaysenergy{{/data.wufoo.user}}',
+    'formHash':'{{data.wufoo.id}}',
+    'autoResize':true,
+    'height':'578',
+    'async':true,
+    'host':'wufoo.com',
+    'header':'{{data.wufo.header}}{{^data.wufoo.header}}hide{{/data.wufoo.header}}',
+    'ssl':true
+  };
+  s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
+  s.onload = s.onreadystatechange = function() {
+  var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+  try { {{data.wufoo.id}} = new WufooForm();{{data.wufoo.id}}.initialize(options);{{data.wufoo.id}}.display(); } catch (e) {}};
+  var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+  })
+  (document, 'script');
+</script>
