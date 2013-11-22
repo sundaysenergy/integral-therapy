@@ -20,7 +20,7 @@ All humans' lives go through periods of challenge and difficulty. Without strugg
 * Build more satisfying relationships and more effective communication
 * Find the sense of direction and meaning that allows one to thrive.
 
-![mandala](/assets/media/mandala.jpg)
+![mandala](/files/mandala.jpg)
 
 ### Integral Psychotherapy offers therapy and counseling for:
 
