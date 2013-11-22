@@ -3,6 +3,7 @@ title: "Integral Psychology - the integrative approach to health | Therapy Minne
 menu: Integral Approach
 breadcrumb: true
 published: true
+
 ---
 
 # Integral Psychology - the integrative approach to health | Therapy Minneapolis
