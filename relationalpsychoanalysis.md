@@ -1,8 +1,7 @@
 ---
 title: Relational Psychoanalysis - Minneapolis, MN | Therapy Minneapolis
+
 ---
-relationalpsychoanalysis.html
-[Source](http://www.integral-therapy.com/relationalpsychoanalysis.html "Permalink to Relational Psychoanalysis - Minneapolis, MN | Therapy Minneapolis")
 
 # Relational Psychoanalysis - Minneapolis, MN
 
