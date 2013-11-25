@@ -1,6 +1,6 @@
 ---
-title: Jungian Psychology - Minneapolis, MN | Therapy Minneapolis
-
+title: "Jungian Psychology - Minneapolis, MN | Therapy Minneapolis"
+published: true
 ---
 
 # Jungian Psychology - Minneapolis, MN
@@ -19,7 +19,7 @@ Integral Psychotherapy offers Jungian psychotherapy for those interested in unde
 
  
 
- 
+For more info on Jungian psychology, please visit our sister organization's page[here.](http://www.chiron-center.com/#!jungianarchetypal-psychology/cvcc)
 
  
 
