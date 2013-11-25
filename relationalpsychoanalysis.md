@@ -1,6 +1,6 @@
 ---
-title: Relational Psychoanalysis - Minneapolis, MN | Therapy Minneapolis
-
+title: "Relational Psychoanalysis - Minneapolis, MN | Therapy Minneapolis"
+published: true
 ---
 
 # Relational Psychoanalysis - Minneapolis, MN
@@ -23,9 +23,4 @@ _As long as you feel the human contact, the atmosphere of mutual confidence, the
 
  
 
- 
-
- 
-
-FYI: "Relational Psychoanalysis" incorporates theories from Interpersonal Psychoanalysis (Sullivan), Object Relations (Fairbairn & Winnicott), Self Psychology (Kohut), Intersubjective Analysis (Stolorow & Atwood), & Attachment Theory (Bowlby).  Stephen A. Mitchell is perhaps the most well known pioneer in developing the relational model of psychotherapy.
-
+FYI: "Relational Psychoanalysis" incorporates theories from Interpersonal Psychoanalysis (Sullivan), Object Relations (Fairbairn & Winnicott), Self Psychology (Kohut), Intersubjective Analysis (Stolorow & Atwood), & Attachment Theory (Bowlby).  Stephen A. Mitchell is perhaps the most well known pioneer in developing the relational model of psychotherapy.  For more info about the Relational approach to psychotherapy, visit our sister-organization's page [here.](http://www.chiron-center.com/#!relationalpsychology/cf3x)
