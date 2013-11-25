@@ -7,7 +7,7 @@ published: true
 
 Most people associate the term Psychoanalysis with a picture of an old, professorial man smoking a pipe, saying, "Tell me about your mother." This image of Psychoanalysis rightly turns people off; it feels outdated and pretentious. Although many psychoanalysts practiced in this style through the years, times have changed.
 
-  ![Relational](/files/Relational.jpg)
+![Relational](/files/Relational.jpg)
 
 Despite it's blemished history, Psychoanalysis holds an unmatched depth of insight into human psychology. In making a crucial departure from Freudian dogma, the Relational model of Psychoanalysis has succeeded at tapping into what is perhaps the most centrally important theme in human psychology: the deeply engrained patterns of one's interpersonal relationships. The Relational Psychoanalyst works in this rich and fascinating world and understands that beneath our "symptoms" (depression, anxiety, substance abuse, etc.) lie the roots of these troubles: chronically unfulfilling relational-emotional patterns. Try as we might, we humans always seem to find ourselves caught in relationships that don't fully satisfy our emotional needs. Unlike most other approaches, Relational Psychoanalysis offers a clear explanation of why this happens. Even more importantly, it offers a way out of these patterns--a way towards a better life founded on healthy, fulfilling relationships.
 
