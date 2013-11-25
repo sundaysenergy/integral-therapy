@@ -13,7 +13,7 @@ _These include_:
 
   * [Jungian psychology](/jungianpsychology.html)
   * [Relational Psychoanalysis](/relationalpsychoanalysis.html)
-  * Integral theory
+  * [Integral theory](http://www.chiron-center.com/#!integral-perspectives-on-health/c15no)
   * Mindfulness practice
   * The world's religions and spiritual traditions
   * The arts, literature and philosophy--wellspring of the human psyche
