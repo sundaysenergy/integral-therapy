@@ -13,14 +13,15 @@ Despite it's blemished history, Psychoanalysis holds an unmatched depth of insig
 
 Integral Psychotherapy offers Relational Psychoanalytic therapy for those inclined to explore, understand, and transform their relationship patterns.
 
+For more info about the Relational approach to psychotherapy, visit our sister-organization's page [here.](http://www.chiron-center.com/#!relationalpsychology/cf3x)
+
  
 
 _As long as you feel the human contact, the atmosphere of mutual confidence, there is no danger; even if you have to face the terror of insanity, or the menace of death, there is still that sphere of human trust, that certainty of understanding and of being understood, the belief that both will persist, no matter how dark the way_.    -C.G. Jung
 
  
 
- 
 
  
 
-FYI: "Relational Psychoanalysis" incorporates theories from Interpersonal Psychoanalysis (Sullivan), Object Relations (Fairbairn & Winnicott), Self Psychology (Kohut), Intersubjective Analysis (Stolorow & Atwood), & Attachment Theory (Bowlby).  Stephen A. Mitchell is perhaps the most well known pioneer in developing the relational model of psychotherapy.  For more info about the Relational approach to psychotherapy, visit our sister-organization's page [here.](http://www.chiron-center.com/#!relationalpsychology/cf3x)
+FYI: "Relational Psychoanalysis" incorporates theories from Interpersonal Psychoanalysis (Sullivan), Object Relations (Fairbairn & Winnicott), Self Psychology (Kohut), Intersubjective Analysis (Stolorow & Atwood), & Attachment Theory (Bowlby).  Stephen A. Mitchell is perhaps the most well known pioneer in developing the relational model of psychotherapy.
