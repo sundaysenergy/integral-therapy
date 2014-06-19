@@ -64,18 +64,12 @@
       <!-- main text and content area -->
       <div id="textualcontent" class="">
         <div class="pad">
-          {{#content}}
-            <div class="node ntype-page" id="page-staff">
-              <div class="content">
-                {{{ content }}}
-              </div>
-            </div>
-          {{/content}}
+          {{> page_html }}
           {{#page}}
             <div class="content" id="page-{{page._no_ext}}">
               {{{ page.content }}}
               {{#page.contact}}
-                {{{ wufoo }}}
+                {{> wufoo }}
               {{/page.contact}}
             </div>
           {{/page}}

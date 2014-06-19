@@ -1,13 +1,17 @@
-<div class="staff">
-{{#staff}}
-  <div class="row">
-    <h2>{{name}} - {{title}}</h2>
-    <img src="/staff/{{photo}}" alt="{{name}}" height="{{img_info.img.height}}" width="{{img_info.img.width}}">
-    <div class="content">
+<div class="node ntype-page" id="page-staff">
+  <div class="content">
+    <div class="staff">
+    {{#staff}}
+      <div class="row">
+        <h2>{{name}} - {{title}}</h2>
+        <img src="/{{photo.thumb.path}}" alt="{{name}}" height="{{photo.thumb.height}}" width="{{photo.thumb.width}}">
+        <div class="content">
 
-      {{{ content }}}
+          {{{ content }}}
 
+        </div>
+      </div>
+    {{/staff}}
     </div>
   </div>
-{{/staff}}
 </div>
