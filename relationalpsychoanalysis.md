@@ -1,6 +1,7 @@
 ---
 title: "Relational Psychoanalysis - Minneapolis, MN | Therapy Minneapolis"
 published: true
+img_center: true
 ---
 
 # Relational Psychoanalysis - Minneapolis, MN
@@ -20,7 +21,6 @@ For more info about the Relational approach to psychotherapy, visit our sister-o
 _As long as you feel the human contact, the atmosphere of mutual confidence, there is no danger; even if you have to face the terror of insanity, or the menace of death, there is still that sphere of human trust, that certainty of understanding and of being understood, the belief that both will persist, no matter how dark the way_.    -C.G. Jung
 
  
-
 
  
 
