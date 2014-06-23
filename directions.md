@@ -24,7 +24,7 @@ This is the walkway from our parking lot to our main entrance:
 
  
 
-Coming from the East:
+### Coming from the East:
 
   * Take I-94 west into Minneapolis.
   * Take 35W south.
@@ -34,7 +34,7 @@ Coming from the East:
   * Go 3 blocks, just past 38th St.  We are the third building on your right--a gray building with blue trim.
   * The main entrance is in back.  Enter the code given to you on the keypad, wait a second, and then turn the handle.  Come in and have a seat in the waiting area.  Your therapist will come out and meet you there at your appointment time.
 
-Coming from the West via 394 (Wayzata area):
+### Coming from the West via 394 (Wayzata area):
 
   * Take 394 east to 94 east.
   * Take 94 east to 35W south
@@ -44,7 +44,7 @@ Coming from the West via 394 (Wayzata area):
   * Go 3 blocks, just past 38th St.  We are the third building on your right--a gray building with blue trim.
   * The main entrance is in back.  Enter the code given to you on the keypad, wait a second, and then turn the handle.  Come in and have a seat in the waiting area.  Your therapist will come out and meet you there at your appointment time.
 
-Coming from the South:
+### Coming from the South:
 
   * Take 35W north.
   * Take the 46th St exit, and take a left onto 46th St.
@@ -53,7 +53,7 @@ Coming from the South:
   * The building is the first commercial building on your left after 39th St.  It is gray with blue trim.
   * The main entrance is in back.  Enter the code given to you on the keypad, wait a second, and then turn the handle.  Come in and have a seat in the waiting area.  Your therapist will come out and meet you there at your appointment time.
 
-Coming from the North:
+### Coming from the North:
 
   * Get on 35W south.
   * Take the 35th St exit.
@@ -62,7 +62,7 @@ Coming from the North:
   * Go 3 blocks, just past 38th St.  We are the third building on your right--a gray building with blue trim.
   * The main entrance is in back.  Enter the code given to you on the keypad, wait a second, and then turn the handle.  Come in and have a seat in the waiting area.  Your therapist will come out and meet you there at your appointment time.
 
-Coming from Minnetonka, Hopkins or St Louis Park:
+### Coming from Minnetonka, Hopkins or St Louis Park:
 
   * Take Highway 7 east into Minneapolis
   * Continue straight as Hwy 7 becomes Lake St.
