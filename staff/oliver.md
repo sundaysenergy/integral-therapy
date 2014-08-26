@@ -1,5 +1,5 @@
 ---
-name: Oliver Ross
+name: Dr. Oliver Ross
 photo: oliver.jpg
 title: Psychotherapist
 sort: -5
