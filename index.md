@@ -1,6 +1,7 @@
 ---
 title: Therapy in Minneapolis area | Therapy Minneapolis - Integral Psychotherapy
 menu: Home
+
 ---
 
 # Therapy in Minneapolis area
