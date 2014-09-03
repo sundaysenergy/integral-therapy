@@ -44,5 +44,3 @@ We offer services based on a sliding scale to make services affordable for all i
 ### Scheduling:
 
 Appointments are available weekdays, evenings, and weekends. [Contact us](/contact.html) to set up an appointment.
-
-### Test:
