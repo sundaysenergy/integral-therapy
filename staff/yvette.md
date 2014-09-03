@@ -2,7 +2,7 @@
 name: "Yvette Erasmus, M.Ed."
 photo: yvette.png
 title: Psychotherapist
-sort: -8
+sort: -7
 published: true
 ---
 
