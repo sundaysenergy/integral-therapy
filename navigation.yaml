@@ -16,6 +16,9 @@ navigation:
     title: Philosophy
     path: /philosophy
   -
+    title: Videos
+    path: /videos
+  -
     title: Directions
     path: /directions1
   -
