@@ -1,5 +1,5 @@
 ---
-name: "Yvette Erasmus, M.Ed."
+name: "Dr. Yvette Erasmus"
 photo: yvette.png
 title: Psychotherapist
 sort: -7
